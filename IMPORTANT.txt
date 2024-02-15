@@ -1,0 +1,1 @@
+This code stores the data into the mongodb cloud when the user clicks on submit button in the contact form
